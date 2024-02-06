@@ -193,7 +193,7 @@
                       //playerjoin
                       bot.on('playerJoin', (user) => {
                         console.log(`[playerJoin]: ${user.username}(${user.id}) Odaya katıldı`);
-                        bot.message.send(`@${user.username} ❤️‍🔥 Lux Bar Club ❤️‍🔥 Odamıza hoş geldiniz !`);
+                        bot.message.send(`@${user.username} Odamıza hoş geldiniz ! 🕺🏼💃🏼`);
                       });
 
                       //deneme
