@@ -7,8 +7,8 @@ module.exports = {
     owerName: '', // change this to the owner name
     ownerId: '', // change this with the owner of the bot ID
     botId: '', // change this with your bot ID, you can get the bot id once you start the bot.
-    developers: ['65676929f1310172b5a01327, 60009d95cc211dc7733ca4ef'], // you can add as many as you want
-    moderators: ['65676929f1310172b5a01327, 65c03569e89b7489d90cebd2, 624b0dbcfafd48d077a48859, 656a315f4b23db9ae77bbfa8, 630674b8dbba3a1140ae1f6d, 60009d95cc211dc7733ca4ef',
+    developers: ['65676929f1310172b5a01327', '60009d95cc211dc7733ca4ef'], // you can add as many as you want
+    moderators: ['65676929f1310172b5a01327', '65c03569e89b7489d90cebd2', '624b0dbcfafd48d077a48859', '656a315f4b23db9ae77bbfa8', '630674b8dbba3a1140ae1f6d', '60009d95cc211dc7733ca4ef',
 ], // add as many as you want
     roomName: 'Changeme', // change this to your room name
     // change this to where you want the bot to teleport on start
