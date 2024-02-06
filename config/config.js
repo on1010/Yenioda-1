@@ -15,7 +15,7 @@ module.exports = {
     coordinates: {
       x: 26,
       y: 1,
-      z: 16,
+      z: 18,
       facing: 'FrontLeft'
     },
     reactionName: 'wink' // the reaction you want to use to kick players, 'wink', 'wave, 'heart', 'clap', 'thumbsup'
