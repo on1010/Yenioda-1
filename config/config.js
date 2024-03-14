@@ -22,7 +22,7 @@ module.exports = {
   },
   // This is an object containing authentication data
   authentication: {
-    room:"65b61504449aa3006d040467" , // your room ID can be found in highrise.game/room/
+    room:"65f16a8f383721551a02265d" , // your room ID can be found in highrise.game/room/
     token: "5e8a91f423531b5b607182a9c5ea8eb7aeb11e29652f11c8d37e91373854d153" // your token ID     you can get one from https://highrise.game
   }
 }
